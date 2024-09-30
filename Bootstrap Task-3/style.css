@@ -1,0 +1,613 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background {
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+}
+
+.brand {
+    font-family: "Poppins", sans-serif;
+    color: #0A72AD;
+}
+
+.navbar {
+    font-family: "Poppins", sans-serif;
+}
+
+.contentone {
+    width: 597px;
+    font-family: "Poppins", sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+}
+
+.conttwo {
+    width: 579px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.discoverbtn {
+    background: linear-gradient(97.65deg, #60BBEE 0.33%, #0A72AD 93.35%);
+    width: 196px;
+}
+
+.client {
+    width: 101px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.bigbuilding {
+    width: 527px;
+    height: 762px;
+    margin-top: -137px;
+}
+
+.descript {
+    background-image: linear-gradient(97.73deg, #399FD8 -6.96%, #0775B4 23.5%, #003756 92.79%);
+    width: 745px;
+    padding: 39px 2px;
+    display: grid;
+    grid-template-columns: 25% 23% 41%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: -99px;
+    bottom: 0px;
+}
+
+/* section-1 */
+
+/* section-2 */
+.services {
+    background-color: #F6F6F6CC;
+    column-gap: 200px;
+}
+
+.excellentservices {
+    width: 334px;
+}
+
+.checkout {
+    width: 561px;
+}
+
+.description {
+    width: 354px;
+}
+
+.descriptcont {
+    background-color: #F6F6F6CC;
+
+}
+
+.descriptname {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+/* section-3 */
+
+.bar {
+    width: 90px;
+    height: 9px;
+    background-color: rgb(68, 163, 201);
+}
+
+/* section-4 */
+.services2 {
+    column-gap: 200px;
+}
+
+.icon {
+    width: 94px;
+    height: 94px;
+    border-radius: 77px;
+    background-color: #2387C0;
+    border: 10px solid #d4dee24d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.name {
+    width: 215px;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #242527;
+}
+
+.idescript {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #C4C4C4;
+    width: 214px;
+}
+/* section-5 */
+
+
+.womencard {
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+    width: 294px;
+    position: absolute;
+    left: 0;
+    top: 170px;
+    right: 250px;
+    padding: 30px;
+    box-shadow: 15px 15px 15px #777;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.womencard img {
+    margin: 0 70px;
+}
+
+.cardpara {
+    color: #E5E5E5;
+    font-size: 14px;
+}
+
+.architect {
+    color: #C4C4C4;
+    font-family: "Poppins", sans-serif;
+    width: 431px;
+}
+
+.teambtn {
+    background: #3e92c3;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    width: 181px;
+}
+
+.story {
+    width: 275px;
+    font-size: 46px;
+    color: #242527;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+}
+
+.storyexp {
+    width: 551px;
+    color: #C4C4C4;
+
+}
+
+/* section-8 */
+.collection {
+    width: 326px;
+    color: #242527;
+    font-size: 46px;
+    font-family: "Poppins", sans-serif;
+}
+
+.building {
+    position: relative;
+}
+
+.tower {
+    width: 253px;
+    height: 88px;
+    background: #FFFFFF;
+    position: absolute;
+    top: 590px;
+    left: 0;
+    right: 344px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.arrow {
+    background-color: #0A72AD;
+    width: 57px;
+    height: 57px;
+    padding: 15px;
+}
+
+/* section-9 */
+.finalcontainer {
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+    margin-top: 300px;
+}
+
+.customer {
+    padding: 120px;
+    position: relative;
+}
+
+.lastcontent {
+    margin-top: 410px;
+}
+
+.lastrow {
+    width: 1064px;
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+    position: absolute;
+    left: 172px;
+    top: -111px;
+    padding: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 18px 18px 18px #131212;
+}
+
+.man {
+    position: relative;
+}
+
+.reviewcard {
+
+    position: absolute;
+    bottom: 18px;
+    right: 536px;
+    width: 263px;
+}
+
+.review{
+    padding: 3px 27px;
+    background-color: #FFFFFF;
+    position: relative;
+}
+#doublequote {
+    width: 64px;
+    height: 64px;
+    border-radius: 40px;
+    border: none;
+    background-color: #FFFFFF;
+    padding: 25px;
+    color: #0A72AD;
+    box-shadow: 20px 20px 20px#bbd3e126;
+}
+.quotation{
+    position: absolute;
+    top: -30px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 75px;
+}
+.endarrow:hover {
+    width: 57px;
+    height: 57px;
+    background-color: #0A72AD;
+    padding: 20px;
+}
+
+.media {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 12px;
+    background-color: #172839;
+    text-align: center;
+}
+
+
+
+
+/* media query 1200px */
+@media(max-width:1200px) {
+    .bigbuilding {
+        width: 100%;
+    }
+
+    .descript {
+        right: -27px;
+    }
+
+    .lastrow {
+        left: 10px;
+    }
+
+    .architect {
+        width: 390px;
+    }
+
+    .constructionimg {
+        width: 100%;
+    }
+}
+
+
+/* meida query 992px */
+@media(max-width:992px) {
+
+    .brandrow {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .bigbuildingrow {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contentone {
+        font-size: 50px;
+    }
+
+    .descript {
+        right: 95px;
+    }
+
+    .services {
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .descriptcont {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .bar {
+        display: none;
+    }
+
+    .services2 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .iconsrow {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .excellentservices {
+        width: 494px;
+    }
+
+    .profilerow {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .womencard {
+        right: -407px;
+    }
+
+    .storyrow {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .story {
+        width: 335px;
+        font-size: 32px;
+    }
+
+    .updates {
+        text-align: center;
+        width: 100%;
+    }
+
+    .updaterow {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .buildingsrow {
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .collection {
+        font-size: 33px;
+        text-align: center;
+        width: 100%;
+        padding-left: 40px;
+        font-size: 25px;
+    }
+
+    .tower {
+        right: -69px;
+        top: 1021px;
+    }
+
+    .lastrow {
+        flex-direction: column;
+        gap: 137px;
+        width: 725px;
+        padding: 40px;
+        left: 121px;
+    }
+
+    .review {
+        bottom: 411px;
+        right: -264px;
+    }
+
+    .lastcontent {
+        margin-top: 680px;
+    }
+}
+
+
+
+/* media query 767px */
+@media(max-width:767px) {
+    .navrow {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .discoverbtn {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .results {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .descript {
+        right: -100px;
+    }
+
+    .descriptcont img {
+        width: 100%;
+    }
+
+    .description {
+        width: 335px;
+    }
+
+    .ads {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .womencard {
+        top: 597px;
+        right: -37px;
+    }
+
+    .profilerow {
+        gap: 310px;
+    }
+
+    .tower {
+        right: 235px;
+    }
+
+    .lastrow {
+        width: 100%;
+        left: 30px;
+    }
+
+    .review {
+        bottom: 329px;
+        right: -454px;
+    }
+
+    .lastcontent {
+        margin-top: 10px;
+    }
+
+    .generalproject {
+        padding-top: 600px;
+    }
+}
+
+
+
+/* media query 575px */
+@media(max-width:575px) {
+    .contentone {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .conttwo {
+        width: 100%;
+        font-size: 15px;
+    }
+
+    .bigbuilding {
+        width: 100%;
+        height: 976px;
+    }
+
+    .name {
+        width: 164px;
+        font-size: 18px;
+    }
+
+    .descript {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 20px;
+        right: 0px;
+    }
+
+    .description {
+        width: 170px;
+    }
+
+    .idescript {
+        width: 139px;
+        font-size: 15px;
+    }
+
+    .womencard {
+        top: 410px;
+        right: 0px;
+    }
+
+    .profilebtn {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .architect {
+        width: 262px;
+    }
+
+    .buildingprofile img {
+        width: 100%;
+    }
+
+    .story {
+        width: 270px;
+    }
+
+    .storyexp {
+        width: 275px;
+    }
+
+    .teambtn {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .updaterow img {
+        width: 100%;
+    }
+
+    .tower {
+        right: 250px;
+    }
+
+    .lastrow {
+        width: 80%;
+        left: 30px;
+        gap: 290px;
+        padding: 10px;
+    }
+    .man img {
+        width: 100%;
+    }
+    .reviewcard{
+        width: 94%;
+        padding: 0;
+        right:460px;
+        bottom: 290px;
+    }
+
+
+    .generalproject {
+        padding-top: 1000px;
+    }
+
+    .customer {
+        padding: 35px;
+    }
+    .lastrowcont{
+        margin-top: 150px;
+    }
+}
